@@ -1,0 +1,1 @@
+;;; anything-yatex.el --- 
